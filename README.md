@@ -1,6 +1,6 @@
-# Data-Analysis-projects
-DataAnalysisprojects
-Project learning --Festival Sales Analysis
+
+Festival Sales Analysis
+
 1)The aim of the project was to analysis sales from dataset with 12251 rows and 15 columns
 
 2)Performed data cleaning and manipulation (Data preprocessing)
