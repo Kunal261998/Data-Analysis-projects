@@ -7,6 +7,6 @@ Festival Sales Analysis
 
 3)Performed exploratory data analysis using pandas and data visualisation using matplotlib and seaborn libaries.
 
-4)Improved customer experience and seller experience by identifying potention customers across different states,occupation,gender and age groups
+4)Improved customer experience and seller experience by identifying potential customers across different states,occupation,gender and age groups
 
 5) Improved sales by identifying most selling products and its categories which can help to plan inventory and meet demands
